@@ -12,7 +12,6 @@ I am a seasoned engineering leader specializing in architecting and shipping lar
 - 🛵 **Previously:** Head of Data Engineering @ **Dunzo**
 - 📊 **Expertise:** Data Strategy, ML Platforms, Distributed Systems, and Technical Leadership.
 - 🎙️ **Speaker:** Frequent speaker at industry conferences like the **Data Engineering Summit**.
-- ✍️ **Writer:** I share my learnings on Big Data and engineering on **Medium**.
 - 🌐 **Community:** Open Source contributor to **CNCF** projects and mentor for Big Data programs.
 
 ---
