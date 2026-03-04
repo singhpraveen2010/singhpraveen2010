@@ -29,13 +29,6 @@ I am a seasoned engineering leader specializing in architecting and shipping lar
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhpraveen2010&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhpraveen2010&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/singhpraveen2010](https://www.linkedin.com/in/singhpraveen2010)
